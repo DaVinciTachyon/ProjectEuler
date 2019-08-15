@@ -1,2 +1,2 @@
 # ProjectEuler
-Completing the challeges on projecteurler.net in C
+Completing the challeges on projecteuler.net in C
